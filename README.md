@@ -13,9 +13,9 @@ Let's get in touch:
 
 <div style="text-align:center">
   <a href='https://www.linkedin.com/in/brendayau/'>
-    <img width='30px' alt='linkedin' src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" /></a>
+    <img width='25px' alt='linkedin' src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" /></a>
   <a href='https://twitter.com/aqxindev'>
-    <img width='30px' alt='twitter' src="https://www.flaticon.com/svg/static/icons/svg/1384/1384017.svg" /></a>
+    <img width='25px' alt='twitter' src="https://www.flaticon.com/svg/static/icons/svg/1384/1384017.svg" /></a>
   <a href='mailto:aqxin.cs@gmail.com'>
-    <img width='30px' alt='email' src="https://www.flaticon.com/svg/static/icons/svg/95/95627.svg" /></a>
+    <img width='25px' alt='email' src="https://www.flaticon.com/svg/static/icons/svg/95/95627.svg" /></a>
 </div>
