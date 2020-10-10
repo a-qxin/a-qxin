@@ -11,7 +11,9 @@ Below are some of my projects:
 
 Let's get in touch: 
 
-<div style="text-align:center">
+<div>
+  <a href='http://brendayau.com'>
+    <img width='25px' alt='website' src="https://www.flaticon.com/svg/static/icons/svg/1782/1782795.svg" /></a>
   <a href='https://www.linkedin.com/in/brendayau/'>
     <img width='25px' alt='linkedin' src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" /></a>
   <a href='https://twitter.com/aqxindev'>
