@@ -13,12 +13,8 @@ Below are some of my projects:
 Let's get in touch: 
 
 <div>
-  <a href='http://brendayau.com'>
-    <img width='25px' alt='website' src="https://www.flaticon.com/svg/static/icons/svg/1782/1782795.svg" /></a>
-  <a href='https://www.linkedin.com/in/brendayau/'>
-    <img width='25px' alt='linkedin' src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" /></a>
-  <a href='https://twitter.com/aqxindev'>
-    <img width='25px' alt='twitter' src="https://www.flaticon.com/svg/static/icons/svg/1384/1384017.svg" /></a>
-  <a href='mailto:aqxin.cs@gmail.com'>
-    <img width='25px' alt='email' src="https://www.flaticon.com/svg/static/icons/svg/95/95627.svg" /></a>
+  <a href='http://brendayau.com'>website&nbsp;&nbsp;&nbsp;</a>
+  <a href='https://www.linkedin.com/in/brendayau/'>linkedin&nbsp;&nbsp;&nbsp;</a>
+  <a href='https://twitter.com/aqxindev'>twitter&nbsp;&nbsp;&nbsp;</a>
+  <a href='mailto:aqxin.cs@gmail.com'>email</a>
 </div>
