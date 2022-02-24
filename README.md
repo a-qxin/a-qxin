@@ -1,8 +1,8 @@
-### welcome to my github!
+### Welcome to my Github!
 
-hey ✌ I'm Brenda and I love design!
+Hey ✌ I'm Brenda, product designer based in the SF Bay Area.
 
-let's get in touch: 
+Connect with me:
 
 <div>
   <a href='https://www.linkedin.com/in/brendayau/'>linkedin</a>&nbsp;&nbsp;&nbsp;
