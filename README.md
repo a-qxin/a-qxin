@@ -1,6 +1,6 @@
-### Welcome to my Github!
+### Hi!✌
 
-Hey ✌ I'm Brenda, product designer based in the SF Bay Area.
+I'm Brenda, product designer based in the SF Bay Area.
 
 Connect with me:
 
